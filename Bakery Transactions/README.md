@@ -5,6 +5,7 @@ Excited to share my first Python data cleaning and exploration project! Delved i
 3. Time of day with most transaction
 
 My recommendations were as follows;
+
 •The shift in popularity from pastry to cake between 2016 and 2017 suggests changing consumer preferences. Analyzing factors influencing this shift, such as marketing strategies or product innovations, could provide valuable insights for product development or targeted promotions; The consistently low sales for items like Beacon, Chicken, Polenta, and The Bat across 2016 and 2017 may suggest these items are not popular or have limited demand. However, the slight sales for Gift Voucher in both years could indicate occasional interest.
 
 •The higher sales of coffee, bread, tea items, cake, and pastries on weekdays may indicate a strong correlation with weekday routines. Understanding the specific times of these sales could guide marketing efforts, promotions, and inventory management to align with customer behavior during the weekdays.
