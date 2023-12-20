@@ -10,6 +10,7 @@ The exploration and visualization of this data set gave head way to the practice
 Python was used for Data cleaning, Data Transformation and manipulation as well as statistical, RFM analysis and Visualization.
 
 **AIM**
+
 This project aims to leverages RFM (Recency, Frequency, Monetary Value) customer segmentation to enable business decision making. The basic objectives of this analysis are;
 
 1. To perform data extraction, cleaning, and transformation of retail transactional data for RFM model development.
@@ -18,7 +19,7 @@ This project aims to leverages RFM (Recency, Frequency, Monetary Value) customer
 
 4. To Provide data-driven retail marketing recommendations tailored to each RFM customer segment.
 
-5. **ABOUT DATASET**
+**ABOUT DATASET**
 Online Retail sales dataset is a collection of data that contains information about the sales of online products or services in the retail industry.
 
 This dataset contains historical sales data from a store, along with information about invoiceno, stockcode, description, quantity, invoicedate, unitprice, customer id and country.
